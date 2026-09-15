@@ -1,0 +1,12 @@
+加载 620 只,773860 条样本
+因子                       Rank IC     ICIR    IC>0    期数
+turnover                 -0.0762   -0.341    39%   115
+log_turnover             -0.0762   -0.341    39%   115
+log_turnover_ma20        -0.0771   -0.326    37%   115
+turnover_ratio           -0.0001   -0.001    53%   115
+
+解读: 换手率单因子 |IC| 若 >0.03 且方向稳定,即有接入价值
+(对照: tech_only 模型整体 IC +0.030,单因子普遍 <0.06)
+
+报告已保存: D:\lianghua\results\turnover_factor_ic_report.txt
+总耗时 12s

@@ -1,0 +1,12 @@
+æ ·æœ¬ 756282, ä¸¤èè¦†ç›– 4%
+å› å­                     Rank IC     ICIR    IC>0    æœŸæ•°
+margin_balance         -0.0056   -0.054    51%   115
+margin_buy             -0.0264   -0.157    46%   115
+margin_mcap_ratio      -0.0515   -0.248    38%   115
+margin_buy_ratio       -0.0519   -0.327    38%   115
+
+(å¯¹ç…§: æ¢æ‰‹ç‡åŸå§‹ -0.077 æ˜¯ size åˆ«å; æŠ€æœ¯é¢æ¨¡å‹ +0.030)
+
+æŠ¥å‘Šå·²ä¿å­˜: D:\lianghua\results\margin_factor_ic_report.txt
+D:\Python38\lib\site-packages\akshare\__init__.py:3102: UserWarning: ÎªÁËÖ§³Ö¸ü¶àÌØĞÔ£¬Çë½« Python Éı¼¶µ½ 3.9.0 ¼°ÒÔÉÏ°æ±¾£¡
+  warnings.warn(

@@ -1,0 +1,9 @@
+åŠ è½½ 620 åª,756282 æ¡æ ·æœ¬, margin è¦†ç›– 95%
+é…ç½®                 Rank IC    ICIR    IC>0      SE    æœŸæ•°
+tech_only          +0.0344  +0.285   63.5%  0.0112   115
+tech_margin        +0.0356  +0.310   63.5%  0.0107   115
+
+æŠ¥å‘Šå·²ä¿å­˜: D:\lianghua\results\margin_model_test_report.txt
+æ€»è€—æ—¶ 224s
+D:\Python38\lib\site-packages\akshare\__init__.py:3102: UserWarning: ÎªÁËÖ§³Ö¸ü¶àÌØĞÔ£¬Çë½« Python Éı¼¶µ½ 3.9.0 ¼°ÒÔÉÏ°æ±¾£¡
+  warnings.warn(

@@ -1,0 +1,1 @@
+{"baidu_300750": {"rows": 750, "tail": [{"date": "2026-08-27", "value": 17257.42}]}, "em_list_err": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"}

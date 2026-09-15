@@ -1,0 +1,9 @@
+换手率因子接入模型验证 (embargo 口径)
+====================================
+
+horizon 30, embargo 45, 点-in-time 成分股
+模型 num_leaves=31 / min_child=20 / lr=0.10
+
+配置                 Rank IC    ICIR    IC>0      SE    期数
+tech_only          +0.0344  +0.285   63.5%  0.0112   115
+tech_turnover      +0.0258  +0.216   62.6%  0.0111   115

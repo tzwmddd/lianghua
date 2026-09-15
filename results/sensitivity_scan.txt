@@ -1,0 +1,18 @@
+参数敏感性扫描 (相对 Rank IC,扩张窗口)
+======================================
+
+[horizon]
+  horizon=20: IC +0.2109  ICIR +1.474  IC>0 89.7%
+  horizon=30: IC +0.2695  ICIR +1.976  IC>0 96.4%
+  horizon=60: IC +0.3340  ICIR +2.414  IC>0 100.0%
+
+[num_leaves]
+  num_leaves=15: IC +0.1934  ICIR +1.417  IC>0 92.9%
+  num_leaves=31: IC +0.2695  ICIR +1.976  IC>0 96.4%
+  num_leaves=63: IC +0.3503  ICIR +2.594  IC>0 100.0%
+
+[learning_rate]
+  learning_rate=0.03: IC +0.2255  ICIR +1.643  IC>0 96.4%
+  learning_rate=0.05: IC +0.2695  ICIR +1.976  IC>0 96.4%
+  learning_rate=0.1: IC +0.3242  ICIR +2.455  IC>0 100.0%
+

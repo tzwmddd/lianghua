@@ -1,0 +1,10 @@
+特征消融压测 (相对标签 + 相对 Rank IC, 生产口径)
+===============================================
+
+OOS 起点 2017-01-01, 每 20 交易日调仓
+模型 num_leaves=63 / lr=0.10 / n_estimators=150
+
+配置                 特征数   Rank IC    ICIR    IC>0    期数
+tech_size           26   +0.1911  +2.108   98.3%   115
+
+baseline full(38列) : Rank IC +0.471  ICIR +3.526  IC>0 100%  (stress_test_regime)

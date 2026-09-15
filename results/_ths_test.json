@@ -1,0 +1,1 @@
+{"ths_list_shape": [90, 2], "ths_cols": ["name", "code"], "ths_cons_err": "AttributeError: module 'akshare' has no attribute 'stock_board_industry_cons_ths'"}
